@@ -2,7 +2,9 @@ We've moved to SourceForge.net
 ==============================
 
 Just kidding - it was always there.
+
 This page is included for your convenience only.
+You can report [application issues](https://github.com/kdt/makagiga/issues) here if you want :)
 
 Makagiga
 ========
@@ -17,9 +19,11 @@ Project Links
 * <http://sourceforge.net/projects/makagiga/>
 * <http://makagiga.sourceforge.net/>
 
-Source Code
-===========
+Source Code (Subversion)
+========================
 
-    svn checkout svn://svn.code.sf.net/p/makagiga/code/trunk/makagiga makagiga-code
+    svn://svn.code.sf.net/p/makagiga/code/trunk/makagiga
+
+Run "svn checkout svn://svn.code.sf.net/p/makagiga/code/trunk/makagiga makagiga-code" from command-line.
 
 See [details](https://sourceforge.net/p/makagiga/wiki/Source/).
